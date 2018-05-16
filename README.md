@@ -4,6 +4,7 @@ daily log of what I am learning
 Day 1: May 15, 2018
 
 Starting the count over. Been working with The Odin Project all this week. Working on the first project which is to build the google homepage. Almost have it done. Can't figure out the git the and how to send my work to my repository. I guess I need to go back through that.
+Spent more time on it and I figured it out! Don't know how much I'll use it at this point but I figured it out and I'm proud of that!
 
 Day 15: April 9, 2018
 -found 'HTML and CSS: Design and Build Websites' online pdf for free! Spent some time this morning flipping through it and using it as a reinforcer for other similar modes of learning.
