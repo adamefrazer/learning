@@ -1,5 +1,10 @@
-# learning
+# 100daysofcode
 daily log of what I am learning
+
+Ok it's real this time. I started my count over. I have completed 7 days. The first 5 days I worked through basic javascript challenges on freeCodeCamp and yesterday and today I began working though Gordon Zhu's Watch and Code. It has been a great resource. He explains things very straight forward and simply. I am really enjoying his resource and teaching style. I shall continue!
+
+
+- - - - - - -
 
 Day 1: May 15, 2018
 
