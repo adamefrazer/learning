@@ -1,4 +1,9 @@
 # 100daysofcode
+
+Another beginning of 100 Days of Code. I'm into 14 days now! Although, my new personal rules is even if I miss a day I am not restarting the count. I am 14 work days in now. I have been working on a portfolio site, my Rule 35 site (it is currently spaghetti code), Learn Enough Command Line to be dangerous and getting back into JavaScript. I am going to go through the Eloquent JavaScript book. Today and yesterday I began the first couple chapters. Today I got through Chapter 1 the types chapter. I tried to go through this book before and got stumped at the end of chapter 2. I will attempt again with a different spin, 'there is no try, there is only do'. I am going to do it. 
+
+I will log everyday on this. Some days I feel like I accomplish a lot and others I feel like I spin my wheels. Today I feel indiferent. Got a late start and then got tired. I have lots of dreams and aspirations and interests and it is hard to stay focused. 
+
 daily log of what I am learning
 
 Ok it's real this time. I started my count over. I have completed 7 days. The first 5 days I worked through basic javascript challenges on freeCodeCamp and yesterday and today I began working though Gordon Zhu's Watch and Code. It has been a great resource. He explains things very straight forward and simply. I am really enjoying his resource and teaching style. I shall continue!
