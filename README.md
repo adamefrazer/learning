@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 19: (Nov 27th): got through chapter 2 of Eloquent JavaScript with Tom's help. He helped me figure out the loop insinde a loop problem (#3). Just got back from Hawaii yesterday and didn't do any coding over the Thanksgiving break. I did listen to CodeNewbie podcasts and read a tad of Eloquent JavaScript chapter 3. It was all review but I'm sure once I get to the exercises they will be tough!
+
 Day 15: (Nov 15th): worked through first 2 exercises in chapter 2 of Eloquent JavaScript. Solved them on my one without much help or peeking at solution. Pretty proud of myself! Although I had solved them some months ago, I didn't remember how to do it. The next one looks tough and I really don't remember how to do it but I'm going to conquer it tomorrow. I need to stay Rhino focused on this book. I want to complete it!
 
 Day 14: (November 14th): Another beginning of 100 Days of Code. I'm into 14 days now! Although, my new personal rules is even if I miss a day I am not restarting the count. I am 14 work days in now. I have been working on a portfolio site, my Rule 35 site (it is currently spaghetti code), Learn Enough Command Line to be dangerous and getting back into JavaScript. I am going to go through the Eloquent JavaScript book. Today and yesterday I began the first couple chapters. Today I got through Chapter 1 the types chapter. I tried to go through this book before and got stumped at the end of chapter 2. I will attempt again with a different spin, 'there is no try, there is only do'. I am going to do it. 
