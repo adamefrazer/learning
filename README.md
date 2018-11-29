@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 20: (Nov 28th): read chapter 3 of Eloquent JavaScript and completed the first exercise. Learned about closures, writing functions that don't repeat themselves, recursion, and scoping. I thiiink I get it but I will definitely go back and review it all tomorrow night, reread it and complete the exercises then move on to chapter 4.
+
 Day 19: (Nov 27th): got through chapter 2 of Eloquent JavaScript with Tom's help. He helped me figure out the loop insinde a loop problem (#3). Just got back from Hawaii yesterday and didn't do any coding over the Thanksgiving break. I did listen to CodeNewbie podcasts and read a tad of Eloquent JavaScript chapter 3. It was all review but I'm sure once I get to the exercises they will be tough!
 
 Day 15: (Nov 15th): worked through first 2 exercises in chapter 2 of Eloquent JavaScript. Solved them on my one without much help or peeking at solution. Pretty proud of myself! Although I had solved them some months ago, I didn't remember how to do it. The next one looks tough and I really don't remember how to do it but I'm going to conquer it tomorrow. I need to stay Rhino focused on this book. I want to complete it!
