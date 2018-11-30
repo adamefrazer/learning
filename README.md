@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 21: (Nov 29th): totally redid my Rule 35 website. The basics are complete. Need to add a nav and some other items. I really like the layout much better and it is much more simple. I followed this tutorial: https://www.youtube.com/watch?v=XsEnj-1hG2o 
+
 Day 20: (Nov 28th): read chapter 3 of Eloquent JavaScript and completed the first exercise. Learned about closures, writing functions that don't repeat themselves, recursion, and scoping. I thiiink I get it but I will definitely go back and review it all tomorrow night, reread it and complete the exercises then move on to chapter 4.
 
 Day 19: (Nov 27th): got through chapter 2 of Eloquent JavaScript with Tom's help. He helped me figure out the loop insinde a loop problem (#3). Just got back from Hawaii yesterday and didn't do any coding over the Thanksgiving break. I did listen to CodeNewbie podcasts and read a tad of Eloquent JavaScript chapter 3. It was all review but I'm sure once I get to the exercises they will be tough!
