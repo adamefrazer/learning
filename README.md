@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 22: (Nov 30th): finished up a few things on Rule 35 website. Added some media queries for desktop screens. It was created as mobile first site. Added navigation but took it off for now because the 'about' and 'blog' pages are not created yet. That will be what I work on next after getting the landing page live online.
+
 Day 21: (Nov 29th): totally redid my Rule 35 website. The basics are complete. Need to add a nav and some other items. I really like the layout much better and it is much more simple. I followed this tutorial: https://www.youtube.com/watch?v=XsEnj-1hG2o 
 
 Day 20: (Nov 28th): read chapter 3 of Eloquent JavaScript and completed the first exercise. Learned about closures, writing functions that don't repeat themselves, recursion, and scoping. I thiiink I get it but I will definitely go back and review it all tomorrow night, reread it and complete the exercises then move on to chapter 4.
