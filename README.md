@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 23: (Dec 3rd): I did some coding on the 1st. Worked on Rule 35 website some. But, today I built a new website from this tutorial: https://www.youtube.com/watch?v=qlA7dputiNc&t=200s. This was sort of a spur of the moment project but I like the way it turned out. I am in a bit of a tutorial purgatory right now. Scared to work on JS and I am stuck between knowing enough tools to make websites on my own but then not enough to put all the pieces together to get a working project. I'm not sure about where to go from here. The websites I have made by following these tutorials look good but they are simple (which is good too) but I don't know that I'm learning anything. I think I am. I want to redo my portfolio website and then include these two projects on there to showcase them. I feel good about what I have done but I also feel it is pretty simple. Not sure.
+
 Day 22: (Nov 30th): finished up a few things on Rule 35 website. Added some media queries for desktop screens. It was created as mobile first site. Added navigation but took it off for now because the 'about' and 'blog' pages are not created yet. That will be what I work on next after getting the landing page live online.
 
 Day 21: (Nov 29th): totally redid my Rule 35 website. The basics are complete. Need to add a nav and some other items. I really like the layout much better and it is much more simple. I followed this tutorial: https://www.youtube.com/watch?v=XsEnj-1hG2o 
