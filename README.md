@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 25: (Dec 4th): Began creating a new portfolio page. It is similar to the layout of the Anchorhead coffee page I made. I really like the flexboxgrid framework(?). It is pretty simple to use. Next, I need to build a new website with a different layout to practice with it. I will build the Houston Texans season ticket page. 
+
 Day 24: (3rd): Completed exercise 2 and 3 from chapter 3 of Eloquent javascript. Recursion and another function problem. Ex 2 I had to look at hints and ultimately the answer. Watched some videos on recursion along the way. But I figured out ex 3 all by myself so I was pretty proud of myself!
 
 Day 23: (Dec 2nd): I did some coding on the 1st. Worked on Rule 35 website some. But, today I built a new website from this tutorial: https://www.youtube.com/watch?v=qlA7dputiNc&t=200s. This was sort of a spur of the moment project but I like the way it turned out. I am in a bit of a tutorial purgatory right now. Scared to work on JS and I am stuck between knowing enough tools to make websites on my own but then not enough to put all the pieces together to get a working project. I'm not sure about where to go from here. The websites I have made by following these tutorials look good but they are simple (which is good too) but I don't know that I'm learning anything. I think I am. I want to redo my portfolio website and then include these two projects on there to showcase them. I feel good about what I have done but I also feel it is pretty simple. Not sure.
