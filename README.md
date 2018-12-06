@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 26: (Dec 5th): I want to do freelance web development and I think WordPress is a great avenue. That requires me to learn php and some other technologies. I feel like I'm bouncing between projects again but I want to think that they are semi connected. Feeling a little scatter brained but didn't have much time to work today but did watch the first few vidoes from this YouTube playlist https://www.youtube.com/watch?v=k7olvEeBM2I&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5&index=3. I have never really seen the 'inner workings' of wordpress but this playlist helps with that. 
+
 Day 25: (Dec 4th): Began creating a new portfolio page. It is similar to the layout of the Anchorhead coffee page I made. I really like the flexboxgrid framework(?). It is pretty simple to use. Next, I need to build a new website with a different layout to practice with it. I will build the Houston Texans season ticket page. 
 
 Day 24: (3rd): Completed exercise 2 and 3 from chapter 3 of Eloquent javascript. Recursion and another function problem. Ex 2 I had to look at hints and ultimately the answer. Watched some videos on recursion along the way. But I figured out ex 3 all by myself so I was pretty proud of myself!
