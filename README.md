@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 27: (Dec 6th): Started a new project website. Pretty excited for it. Will work on it more tomorrow and this weekend. Using flexboxgrid to build it. I really like it. Goals for the weekend: continue this project, get Rule 35 online, and learn more about WordPress.
+
 Day 26: (Dec 5th): I want to do freelance web development and I think WordPress is a great avenue. That requires me to learn php and some other technologies. I feel like I'm bouncing between projects again but I want to think that they are semi connected. Feeling a little scatter brained but didn't have much time to work today but did watch the first few vidoes from this YouTube playlist https://www.youtube.com/watch?v=k7olvEeBM2I&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5&index=3. I have never really seen the 'inner workings' of wordpress but this playlist helps with that. 
 
 Day 25: (Dec 4th): Began creating a new portfolio page. It is similar to the layout of the Anchorhead coffee page I made. I really like the flexboxgrid framework(?). It is pretty simple to use. Next, I need to build a new website with a different layout to practice with it. I will build the Houston Texans season ticket page. 
