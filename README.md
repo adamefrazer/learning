@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 29: (Dec 9th): worked a bit on my NHL site. I was getting bored/stuck with it but no feel a bit better about it. Missed one day this weekend.
+
 Day 28: (Dec 7th): Did very little. :(
 
 Day 27: (Dec 6th): Started a new project website. Pretty excited for it. Will work on it more tomorrow and this weekend. Using flexboxgrid to build it. I really like it. Goals for the weekend: continue this project, get Rule 35 online, and learn more about WordPress.
