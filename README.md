@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 31: (Dec 11th): fell asleep reading Eloquent javascript
+
 Day 30: (Dec 10th): feel like im spinning in circles
 
 Day 29: (Dec 9th): worked a bit on my NHL site. I was getting bored/stuck with it but no feel a bit better about it. Missed one day this weekend.
