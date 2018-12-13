@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 32: (Dec 12th): changed up a side project website. It is in my NHL repository. Wanted to make it look a bit like this https://bitcharge.co/?ref=land-book.com 
+
 Day 31: (Dec 11th): fell asleep reading Eloquent javascript
 
 Day 30: (Dec 10th): feel like im spinning in circles
