@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 33: (Dec 13th): today doesn't count. did very little. but i am done with my masters! now i can concentrate totally on coding!
+
 Day 32: (Dec 12th): changed up a side project website. It is in my NHL repository. Wanted to make it look a bit like this https://bitcharge.co/?ref=land-book.com 
 
 Day 31: (Dec 11th): fell asleep reading Eloquent javascript
