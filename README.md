@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 34: (Dec 14th): read at least an hour or more of You Don't Know JavaScript. Eloquent JavaScript in chapter 4 got way to weird for me. I couldn't keep up. YDKJS is much more approachable and user friendly. Going to stick with it. I hope
+
 Day 33: (Dec 13th): today doesn't count. did very little. but i am done with my masters! now i can concentrate totally on coding!
 
 Day 32: (Dec 12th): changed up a side project website. It is in my NHL repository. Wanted to make it look a bit like this https://bitcharge.co/?ref=land-book.com 
