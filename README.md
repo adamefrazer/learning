@@ -1,5 +1,7 @@
 # 100daysofcode
 
+Day 35: (Dec 115th): went back to FreeCodeCamp. Began working through the beginner algorithms again. I had solved about half of them before but it had been a few months. I solved several without any or much help. Proud of that. And any that I looked for help I understand how it worked.
+
 Day 34: (Dec 14th): read at least an hour or more of You Don't Know JavaScript. Eloquent JavaScript in chapter 4 got way to weird for me. I couldn't keep up. YDKJS is much more approachable and user friendly. Going to stick with it. I hope
 
 Day 33: (Dec 13th): today doesn't count. did very little. but i am done with my masters! now i can concentrate totally on coding!
